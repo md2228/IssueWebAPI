@@ -10,8 +10,8 @@ namespace UncreativeProjectName1.Controllers
     [ApiController]
     public class IssueController : ControllerBase
     {
-        private readonly IssueDbContext _context;
-        public IssueController(IssueDbContext context) => _context = context;
+        private readonly GeneralDbContext _context;
+        public IssueController(GeneralDbContext context) => _context = context;
 
         [HttpGet]
         public async Task<IEnumerable<Issue>> Get()

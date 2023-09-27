@@ -85,3 +85,4 @@ C:\Users\marga\source\repos\UncreativeProjectName1\UncreativeProjectName1\obj\De
 C:\Users\marga\source\repos\UncreativeProjectName1\UncreativeProjectName1\obj\Debug\net6.0\UncreativeProjectName1.pdb
 C:\Users\marga\source\repos\UncreativeProjectName1\UncreativeProjectName1\obj\Debug\net6.0\UncreativeProjectName1.genruntimeconfig.cache
 C:\Users\marga\source\repos\UncreativeProjectName1\UncreativeProjectName1\obj\Debug\net6.0\ref\UncreativeProjectName1.dll
+C:\Users\marga\source\repos\UncreativeProjectName1\UncreativeProjectName1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
